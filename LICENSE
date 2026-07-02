@@ -1,0 +1,70 @@
+KeyTalk Source Available License 1.0
+KeyTalk 源码可见许可协议 1.0
+
+Copyright (c) 2026 KeyTalk contributors. All rights reserved.
+版权所有 (c) 2026 KeyTalk contributors。保留所有权利。
+
+English
+=======
+
+This project is source-available, not open-source.
+
+Permission is granted to view, read, clone, and build this source code for
+personal, educational, evaluation, and non-commercial self-use purposes.
+
+You may:
+
+- read and study the source code;
+- clone the repository for personal evaluation;
+- build and install the application for your own non-commercial use;
+- submit bug reports, suggestions, or patches to the official project.
+
+You may not, without explicit written permission from the copyright holder:
+
+- sell, rent, sublicense, or otherwise charge for this software;
+- sell, rent, sublicense, or otherwise charge for modified versions,
+  derivative works, repackaged APKs, or services based on this software;
+- redistribute modified versions or derivative works outside the official
+  project contribution process;
+- remove or alter copyright, license, attribution, or trademark notices;
+- use the KeyTalk name, logo, icon, or branding in a way that suggests
+  endorsement by the original project.
+
+Compiled APK releases provided by the official project may be used according to
+the release terms published with those releases.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OF THE SOFTWARE.
+
+
+中文
+====
+
+本项目为“源码可见”（source-available）项目，并非开源项目。
+
+你可以基于个人、学习、评估和非商业自用目的查看、阅读、克隆和构建本源码。
+
+你可以：
+
+- 阅读和学习源码；
+- 为个人评估目的克隆本仓库；
+- 为自己的非商业用途构建并安装本应用；
+- 向官方项目提交问题反馈、建议或补丁。
+
+未经版权持有人明确书面许可，你不得：
+
+- 出售、出租、转授权本软件，或以其他方式对本软件收费；
+- 出售、出租、转授权本软件的修改版本、衍生作品、重新打包的 APK，
+  或基于本软件提供收费服务；
+- 在官方项目贡献流程之外重新发布修改版本或衍生作品；
+- 删除或更改版权、许可、署名或商标声明；
+- 以暗示获得官方背书的方式使用 KeyTalk 名称、Logo、图标或品牌元素。
+
+官方项目发布的编译版 APK，可以按照对应发布说明中的条款使用。
+
+本软件按“原样”提供，不提供任何明示或默示担保，包括但不限于适销性、
+特定用途适用性和不侵权担保。对于因本软件或本软件使用而产生的任何索赔、
+损害或其他责任，版权持有人均不承担责任。

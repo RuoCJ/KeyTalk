@@ -1,0 +1,27 @@
+# Gradle / Android build outputs
+.gradle/
+.kotlin/
+**/build/
+
+# Local machine configuration
+local.properties
+
+# Signing keys and credentials
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+*.properties.local
+
+# Crash logs
+hs_err_pid*.log
+replay_pid*.log
+
+# IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
